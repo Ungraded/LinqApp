@@ -1,0 +1,3 @@
+# LinqApp
+
+LINQ exercise.
